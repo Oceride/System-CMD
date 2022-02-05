@@ -1,0 +1,22 @@
+C:\Users\Steven\Desktop\Texting Client\Texting Client\bin\Debug\Texting Client.exe.config
+C:\Users\Steven\Desktop\Texting Client\Texting Client\bin\Debug\Texting Client.exe
+C:\Users\Steven\Desktop\Texting Client\Texting Client\bin\Debug\Texting Client.pdb
+C:\Users\Steven\Desktop\Texting Client\Texting Client\bin\Debug\Texting Client.xml
+C:\Users\Steven\Desktop\Texting Client\Texting Client\obj\Debug\Texting_Client.Form1.resources
+C:\Users\Steven\Desktop\Texting Client\Texting Client\obj\Debug\Texting_Client.Resources.resources
+C:\Users\Steven\Desktop\Texting Client\Texting Client\obj\Debug\Texting Client.vbproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Texting Client\Texting Client\obj\Debug\Texting Client.exe
+C:\Users\Steven\Desktop\Texting Client\Texting Client\obj\Debug\Texting Client.xml
+C:\Users\Steven\Desktop\Texting Client\Texting Client\obj\Debug\Texting Client.pdb
+C:\Users\Steven\Desktop\Texting Client\Texting Client\obj\Debug\Texting Client.vbprojResolveAssemblyReference.cache
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\bin\Debug\Texting Client.exe.config
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\bin\Debug\Texting Client.exe
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\bin\Debug\Texting Client.pdb
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\bin\Debug\Texting Client.xml
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\obj\Debug\Texting Client.vbprojAssemblyReference.cache
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\obj\Debug\Texting_Client.Form1.resources
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\obj\Debug\Texting_Client.Resources.resources
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\obj\Debug\Texting Client.vbproj.GenerateResource.cache
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\obj\Debug\Texting Client.exe
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\obj\Debug\Texting Client.xml
+C:\Users\Steven M\Desktop\TextServer\Texting Client\Texting Client\obj\Debug\Texting Client.pdb

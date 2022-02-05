@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\Texting Server\Texting Server\bin\Debug\Texting Server.exe.config
+C:\Users\Steven\Desktop\Texting Server\Texting Server\bin\Debug\Texting Server.exe
+C:\Users\Steven\Desktop\Texting Server\Texting Server\bin\Debug\Texting Server.pdb
+C:\Users\Steven\Desktop\Texting Server\Texting Server\bin\Debug\Texting Server.xml
+C:\Users\Steven\Desktop\Texting Server\Texting Server\obj\Debug\Texting Server.vbprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Texting Server\Texting Server\obj\Debug\Texting_Server.Form1.resources
+C:\Users\Steven\Desktop\Texting Server\Texting Server\obj\Debug\Texting_Server.Resources.resources
+C:\Users\Steven\Desktop\Texting Server\Texting Server\obj\Debug\Texting Server.vbproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Texting Server\Texting Server\obj\Debug\Texting Server.exe
+C:\Users\Steven\Desktop\Texting Server\Texting Server\obj\Debug\Texting Server.xml
+C:\Users\Steven\Desktop\Texting Server\Texting Server\obj\Debug\Texting Server.pdb
